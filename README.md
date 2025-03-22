@@ -4,7 +4,7 @@
 📍 Lahore, Pakistan  
 📧 nomanshamim720@gmail.com  
 📞 +92-3011860582   
-🔗 [GitHub](https://github.com/NomanShamim) | [LinkedIn](https://www.linkedin.com/in/noman-shamim)
+🔗 [GitHub](https://github.com/NomanShamim) | [LinkedIn](https://www.linkedin.com/in/noman-shamim-00a0662b1?)
 
 ---
 
@@ -59,4 +59,4 @@ Data Science student at PUCIT with strong problem-solving and programming skills
 
 ## 🔗 Let's Connect!
 
-[GitHub](https://github.com/NomanShamim) | [LinkedIn](https://www.linkedin.com/in/noman-shamim)
+[GitHub](https://github.com/NomanShamim) | [LinkedIn](https://www.linkedin.com/in/noman-shamim-00a0662b1?) |  [Email](mailto:nomanshamim720@gmail.com)
