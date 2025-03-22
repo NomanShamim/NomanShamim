@@ -53,7 +53,7 @@ Data Science student at PUCIT with strong problem-solving and programming skills
 
 ## 🎓 Education
 
-📍 **Bachelors in Data Science – PUCIT Lahore (2023-2027)**  
+🎓 **Bachelors in Data Science – PUCIT Lahore (2023-2027)**  
 
 ---
 
